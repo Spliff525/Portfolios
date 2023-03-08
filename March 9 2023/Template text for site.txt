@@ -1,0 +1,48 @@
+3D/2D Visual Developement
+I am focused on complex modelling, sculpting, texturing and lookdev, both hard-surface and organic.
+I offer a one-stop-solution, from concept over implementation in 3D, Rendering and Compositing, to final cut and image editing 
+
+
+Product-Visualizations
+Create Visualizations and Animations in 3D such as Advertising ,Industrial Films and Characteranimations for broad fields of application, such as, Web, TV, Print, Trade Fairs or Point-of-Sale.
+
+front end
+Skyrocket Conversions With Our Front End Development Services
+Win over your visitors with intuitive user interfaces
+Want seamless user interfaces, smooth navigation, and uncompromising accessibility to be the defining traits of your next website project? We’ve got you covered! Comprising a skilled team and state-of-the-art infrastructure, our front end development services will leave no stone unturned to transform your vision into reality!
+
+
+Full Stack Web Development
+System infrastructure, web architecture, and communication protocols - My front end development agency specializes in all these departments, delivering to you interactive front ends along with robust backends.
+
+
+Custom Web App Development Icon
+Custom Web App Development
+Ou seasoned and pre-vetted front end architects use clean codes and a customized approach to infuse creativity and interactivity into your web portals
+
+
+Data Migration, Support, and Maintenance 
+Data Migration, Support and Maintenance
+Be it migrating crucial data, resolving post-deployment queries or regular maintenance, obtain watertight solutions from our front-end experts.
+
+CMS Design and Development Icon
+CMS Design and Development
+With my comprehensive front end web development services, you can set up best-in-class, responsive and robust content management systems for your business
+
+
+
+HTML5/CSS Development
+We feed interactive elements using W3C standard & cross-browser compatibility coding standards to put wind in your digital sails
+
+
+We engaged ScienceSoft to build an Android app that complements our web-based platform for our patients. ScienceSoft developers proved themselves to be Android experts. They advised and successfully lead the way from end to end through the technical challenges and considerations with development of the Android app.
+
+
+cienceSoft's Android development services include custom mobile apps, mobile SDKs and utilities development. the developed apps with the back-end web service and corporate systems. We offer:
+
+UX and UI mobile app design.
+Native (Java, Kotlin) Android app development.
+Cross-platform (with React Native, Flutter, Xamarin, Cordova) development.
+Back end, web app, and API development.
+Assistance with publishing and maintaining apps on Google Play.
+Continuous Android app support and evolution.
