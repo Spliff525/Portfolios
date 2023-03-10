@@ -347,7 +347,7 @@ transform: scale(1.1);
 .contact{
     background: #1b203abf;
     display: grid;
-    grid-template-columns: repeat(2, 2fr);
+    grid-template-columns: repeat(3, 3fr);
     align-items: center;
     grid-gap: 2rem;
 
@@ -357,6 +357,8 @@ transform: scale(1.1);
     width: 700px;
     height:auto;
 border-radius: 10px;
+display: none;
+
 }
 .contact-form h2{
 
